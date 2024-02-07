@@ -141,7 +141,6 @@ void publishVoronoiMap(cv::Mat& voronoi_map){
 }
 ```
 
-https://github.com/fbasatemur/topological_map/blob/main/doc/
 
 ## Result for turtlebot3_house
 
